@@ -31,7 +31,7 @@ This project focuses on comparing DNA sequences using Chaos Game Representation 
 |------|-----------|---------|
 | Sequence Encoding | CGR / FCGR | Represent DNA sequences visually |
 | Feature Extraction | HOG | Capture texture/patterns from CGR images |
-| Classification | SVM, Random Forest, KNN | Classify sequences based on features |
+| Classification | SVM | Classify sequences based on features |
 | Clustering | Dendrograms | Group sequences based on similarity |
 
 ---
