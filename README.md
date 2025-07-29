@@ -1,7 +1,7 @@
 
 # 🧬 Chaos Game Representation (CGR) for Biological Sequence Comparison
 
-This project focuses on comparing DNA sequences using Chaos Game Representation (CGR) and Frequency CGR (FCGR), enabling alignment-free and visually intuitive comparison of genetic patterns. Machine learning models are applied to classify sequences based on features extracted from CGR images.
+This project focuses on comparing DNA sequences using Chaos Game Representation (CGR) and Frequency CGR (FCGR), enabling alignment-free and visually intuitive comparison of genetic patterns in Picornaviridae Family. Machine learning models are applied to classify sequences based on features extracted from CGR images.
 
 ---
 
